@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  /* FONTS */
+
+  /* --font-logo: "Fascinate Inline", system-ui;
+   */
+  --font-h1: "Ubuntu", sans-serif;
+  --font-h2: "Montserrat", sans-serif;
+  --font-text: "Prompt", sans-serif;
+
+  /* COLORS */
+
+  --color-primary: #ff6343; /* Tall Poppy */
+  --color-secondary: rgb(178, 216, 247); /* Sail Blue */
+  --color-accent: #d4a017; /* Gold */
+
+  --color-bcolor: rgb(255 220 213); /* Soft Ivory */
+  --color-surface: #ffffff; /* optional: white for cards (keeps it clean) */
+  --color-bordersColor: #d9d6d2; /* Warm Light Gray */
+
+  --text: #0e3a5d;
+}
